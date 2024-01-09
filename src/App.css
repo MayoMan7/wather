@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  background-color: #f5f5f5; /* Light background color */
+  color: #333; /* Dark text color */
+}
+
+.App-img {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+
+.App-header {
+  background-color: #61dafb; /* Bright blue background color */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white; /* Light text color */
+}
+
+.App-link {
+  color: #007bff; /* Another shade of blue for links */
+}
